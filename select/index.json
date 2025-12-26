@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Brother Louie",
+  "base_artist": "Modern Talking",
+  "createdAt": "2025-12-26T03:44:39.352996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brother Louie",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/01_Brother_Louie_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brother Louie",
+      "artist": "VIZE feat. Imanbek, Dieter Bohlen & Leony",
+      "has_synced": true,
+      "path": "select/02_Brother_Louie_VIZE_feat._Imanbek,_Dieter_Bohlen_&_Leony.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brother Louie",
+      "artist": "VIZE/Imanbek/Dieter Bohlen/Leony",
+      "has_synced": true,
+      "path": "select/03_Brother_Louie_VIZE_Imanbek_Dieter_Bohlen_Leony.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brother Louie",
+      "artist": "Stories",
+      "has_synced": true,
+      "path": "select/04_Brother_Louie_Stories.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brother Louie",
+      "artist": "Hot Chocolate",
+      "has_synced": false,
+      "path": "select/05_Brother_Louie_Hot_Chocolate.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brother Louie",
+      "artist": "Vize",
+      "has_synced": true,
+      "path": "select/06_Brother_Louie_Vize.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brother Louie",
+      "artist": "Hot Chocolate",
+      "has_synced": true,
+      "path": "select/07_Brother_Louie_Hot_Chocolate.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brother Louie",
+      "artist": "The Stories",
+      "has_synced": true,
+      "path": "select/08_Brother_Louie_The_Stories.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Brother Louie '98",
+      "artist": "Modern Talking",
+      "has_synced": false,
+      "path": "select/09_Brother_Louie_'98_Modern_Talking.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brother Louie (club edit)",
+      "artist": "Modern Talking",
+      "has_synced": false,
+      "path": "select/10_Brother_Louie_(club_edit)_Modern_Talking.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brother Louie",
+      "artist": "Modern Talking",
+      "has_synced": false,
+      "path": "select/pl_01_Brother_Louie_Modern_Talking.txt"
+    }
+  ]
+}
